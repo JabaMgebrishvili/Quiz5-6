@@ -12,7 +12,7 @@ Car Prices:
 •	Link: https://raw.githubusercontent.com/RimjimRazdan/cars_price_prediction/master/car%20data.csv
 •	Description: This dataset comprises information about different cars, including their selling prices, present prices, kilometers driven, and more.
 Heart Disease Prediction:
-•	Link: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regressionDescription: This dataset contains health-related information used to predict the likelihood of a person developing heart disease within ten years.
+•	Link: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
 • Description: This dataset contains health-related information used to predict the likelihood of a person developing heart disease within ten years.
 
 # Task 1: Simple Linear Regression on Student Study Hours
