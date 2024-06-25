@@ -1,4 +1,4 @@
-# Machine Learning Models on Various Datasets
+# Machine Learning Models on Various Datasets - Quiz 5&6
 This repository contains implementations of various machine learning models on four different datasets, each addressing a specific problem. Below are the details of the datasets used, the models applied, and the results obtained.
 
 # Datasets
