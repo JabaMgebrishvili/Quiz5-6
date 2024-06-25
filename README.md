@@ -20,8 +20,11 @@ Heart Disease Prediction:
 
 # Task 1: Simple Linear Regression on Student Study Hours
 •	Objective: Predict student scores based on study hours.
+
 •	Model: Simple Linear Regression.
+
 •	Metrics: Coefficient, Intercept, R² Score.
+
 •	Results: Visualized using a scatter plot and regression line.
 # Task 2: Multiple Linear Regression on Real Estate Prices
 •	Objective: Predict real estate prices per unit area.
