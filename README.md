@@ -28,23 +28,35 @@ Heart Disease Prediction:
 •	Results: Visualized using a scatter plot and regression line.
 # Task 2: Multiple Linear Regression on Real Estate Prices
 •	Objective: Predict real estate prices per unit area.
+
 •	Model: Multiple Linear Regression.
+
 •	Metrics: Coefficient, Intercept, R² Score.
+
 •	Results: Visualized using scatter plot and heatmap.
 # Task 3: Decision Tree Regression on Car Prices
 •	Objective: Predict car selling prices based on various features.
+
 •	Model: Decision Tree Regression.
+
 •	Metrics: R² Score.
+
 •	Results: Visualized using a scatter plot and the decision tree.
 # Task 4: Logistic Regression on Heart Disease Prediction
 •	Objective: Predict the likelihood of developing heart disease within ten years.
 •	Model: Logistic Regression.
+
 •	Metrics: Accuracy, Confusion Matrix, Classification Report.
+
 •	Results: Visualized using confusion matrix.
+
 # Task 5: Decision Tree Classification on Heart Disease Prediction
 •	Objective: Predict the likelihood of developing heart disease within ten years.
+
 •	Model: Decision Tree Classification.
+
 •	Metrics: Accuracy, Confusion Matrix, Classification Report.
+
 •	Results: Visualized using confusion matrix and the decision tree.
 
 # Dependencies
