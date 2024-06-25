@@ -44,6 +44,7 @@ Heart Disease Prediction:
 •	Results: Visualized using a scatter plot and the decision tree.
 # Task 4: Logistic Regression on Heart Disease Prediction
 •	Objective: Predict the likelihood of developing heart disease within ten years.
+
 •	Model: Logistic Regression.
 
 •	Metrics: Accuracy, Confusion Matrix, Classification Report.
