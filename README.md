@@ -5,12 +5,15 @@ This repository contains implementations of various machine learning models on f
 Student Study Hours:
 •	Link: https://www.kaggle.com/datasets/himanshunakrani/student-study-hours
 •	Description: This dataset contains information about the number of hours students studied and the scores they achieved.
+
 Real Estate:
 •	Link: https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction
 •	Description: This dataset includes various features of real estate properties and their corresponding prices per unit area.
+
 Car Prices:
 •	Link: https://raw.githubusercontent.com/RimjimRazdan/cars_price_prediction/master/car%20data.csv
 •	Description: This dataset comprises information about different cars, including their selling prices, present prices, kilometers driven, and more.
+
 Heart Disease Prediction:
 •	Link: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
 • Description: This dataset contains health-related information used to predict the likelihood of a person developing heart disease within ten years.
